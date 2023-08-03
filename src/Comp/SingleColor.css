@@ -1,0 +1,21 @@
+.color-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.save-to-clip-board{
+    cursor: pointer;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 150px;
+    height: 120px;
+}
+
+.weight{
+    font-size: 16px;
+    padding: 5px;
+    
+}
+
+.color .color-light{
+color: white;
+}

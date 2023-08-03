@@ -1,0 +1,44 @@
+.conatiner{
+   padding-top: 40px;
+   padding-left: 40px;
+   background-color: rgba(0, 0, 0, 0.068);
+   height: 100vh;
+}
+
+.h3{
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.color-form{
+    margin-top: 10px;
+    display: flex;
+}
+
+.color-form .input-color-01{
+    border: none;
+    height: 34px;
+    margin: 0;
+    outline: none;
+    
+}
+
+.color-form .input-color-02{
+    border: none;
+    outline: none;
+    height: 23px;
+    margin: 0;
+    margin-top: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.btn-color{
+    background-color: black;
+    border: none;
+    height: 25px;
+    color: white;
+    margin-top: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
