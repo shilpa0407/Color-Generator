@@ -42,3 +42,11 @@
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
 }
+
+@media(max-width:992px){
+    .conatiner{
+       
+        padding-left: 10px;
+      
+     }
+}
